@@ -5,6 +5,7 @@
 ** cyber
 */
 
+ex1
 une personne veut se signin avec l'adresse ip 2f 73 69 67 6e 69 6e
 
 son username est ; "Groot"
@@ -12,3 +13,9 @@ son username est ; "Groot"
 son password est "Je_sappell e_Groot"
 
 le mdp ou l'user ne correspond pas
+
+ex2
+
+signout avec l'adresse ip 2f 73 69 67 6e 6f 75 74
+
+la personne a réussie a ce connecté avec succes
